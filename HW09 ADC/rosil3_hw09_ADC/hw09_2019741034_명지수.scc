@@ -1,0 +1,32 @@
+[_setup_]
+port=COM4
+baudrate=115200
+
+width=1800
+height=450
+
+grid_h_origin = 350
+grid_h_step = 10
+grid_h_color = #EEE
+grid_h_origin_color = #CCC
+grid_v_origin = 0
+grid_v_step = 10
+grid_v_color = #EEE
+grid_v_origin_color = transparent
+background_color = white 
+
+[_default_]
+min=0
+max=1023
+
+[field0]
+color=red
+[field1]
+color=blue
+[field2]
+color=limegreen
+[field3]
+color=plum
+
+
+
