@@ -1,5 +1,5 @@
 # KwangWoon University 
-## Robotics-Experiment3 :books:
+## Robotics-Laboratory3 :books:
 
 I learned in this class how to effectively use the sensor by removing noise.
 
